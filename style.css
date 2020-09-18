@@ -5,13 +5,13 @@
 }
 body {
   font-family: "Poppins", sans-serif;
-  background: radial-gradient(gainsboro);
+  background: white;
 }
 
 .navbar {
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 20px;
 }
 nav {
   flex: 1;
